@@ -1,8 +1,40 @@
-# React + Vite
+# Tugas Akhir Temu Balik Informasi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi pencarian karya tulis ilmiah
 
-Currently, two official plugins are available:
+## Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone this project
+
+```bash
+  git clone https://github.com/syahrulakbar/temu-balik-informasi
+```
+
+## Frontend
+
+```bash
+  npm i
+```
+
+```bash
+  npm run dev
+```
+
+## Backend
+
+```bash
+  click run python file in up right editor or click f5
+```
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind
+- Javascript
+- Python
+- Scholarly
+
+## Preview
+
+![Preview](preview.png)
